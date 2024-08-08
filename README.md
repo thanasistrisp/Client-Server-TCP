@@ -1,4 +1,5 @@
-# System Programming - Exercise 2
+# Client-Server Model through TCP
+System Programming - Exercise 2
 
 ## Compilation
 
